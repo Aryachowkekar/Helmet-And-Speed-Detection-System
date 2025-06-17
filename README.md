@@ -30,7 +30,7 @@ This will launch the interactive GUI, allowing you to load video footage, proces
 - **EasyOCR** – Optical Character Recognition (OCR)
 - **Pandas** – Data Handling & Analysis
 - **Ultralytics** – YOLO-based Object Detection
-
+![Frame Capture](https://github.com/Aryachowkekar/Helmet-And-Speed-Detection-System/blob/main/frame_40.jpg)
 ## 🤝 Contributing
 We welcome contributions! Feel free to **fork** the repository, make improvements, and submit **pull requests**.
 
