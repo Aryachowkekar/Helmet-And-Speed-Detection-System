@@ -1,0 +1,5 @@
+Pillow
+opencv-python
+easyocr
+pandas
+ultralytics
